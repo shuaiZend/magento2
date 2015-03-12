@@ -1,20 +1,20 @@
-"Insert Widget...","Insert Widget..."
-"No records found.","No records found."
-"Recent items","Recent items"
-"Show all...","Show all..."
-"Method ","Method "
-"Please wait...","Please wait..."
-Loading...,Loading...
-Cancel,Cancel
-Save,Save
-Translate,Translate
-Submit,Submit
-Close,Close
-"Please enter a value less than or equal to %s.","Please enter a value less than or equal to %s."
-"Please enter a value greater than or equal to %s.","Please enter a value greater than or equal to %s."
-"Maximum length of this field must be equal or less than %1 symbols.","Maximum length of this field must be equal or less than %1 symbols."
-"This is a required field.","This is a required field."
-"Please enter a valid year (1900-%1).","Please enter a valid year (1900-%1)."
-"Please enter a valid day (1-%1).","Please enter a valid day (1-%1)."
-"Please enter a date in the past.","Please enter a date in the past."
-"Please enter a date between %min and %max.","Please enter a date between %min and %max."
+"Insert Widget...","插入小工具..."
+"No records found.","找不到记录."
+"Recent items","最近浏览"
+"Show all...","显示全部..."
+"Method ","方法"
+"Please wait...","请稍等..."
+Loading...,加载中...
+Cancel,取消
+Save,保存
+Translate,翻译
+Submit,发送
+Close,关闭
+"Please enter a value less than or equal to %s.","请输入一个小于或者等于 %s 的值."
+"Please enter a value greater than or equal to %s.","请输入一个大于或者等于 %s 的值."
+"Maximum length of this field must be equal or less than %1 symbols.","这个字段的最大长度必须小于或者等于 %1."
+"This is a required field.","这是一个必填字段."
+"Please enter a valid year (1900-%1).","请输入有效年份(1900-%1)."
+"Please enter a valid day (1-%1).","请输入有效日期(1-%1)."
+"Please enter a date in the past.","请输入过去的日期."
+"Please enter a date between %min and %max.","请输为 %min 和 %max 之间."
